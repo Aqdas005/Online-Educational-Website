@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import heroImg from "../../assests/images/hero-img1.png";
+import heroImg from "../../assests/images/logo.png";
 import "./hero-section.css";
 
 const HeroSection = () => {
@@ -11,12 +11,10 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
+              Study Sphere !!<br /> Learn Together <br /> Achieve Together
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              Study Sphere is an innovative online learning platform designed to enhance collaboration and communication in educational environments. It provides students and educators with two key features
               </p>
             </div>
             <div className="search">

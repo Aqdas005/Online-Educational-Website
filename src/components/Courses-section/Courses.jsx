@@ -1,36 +1,36 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import courseImg1 from "../../assests/images/web-design.png";
-import courseImg2 from "../../assests/images/graphics-design.png";
-import courseImg3 from "../../assests/images/ui-ux.png";
+import courseImg1 from "../../assests/images/forum.png";
+import courseImg2 from "../../assests/images/videocall.png";
+import courseImg3 from "../../assests/images/studyplan.png";
 import "./courses.css";
 import CourseCard from "./CourseCard";
 
 const coursesData = [
   {
     id: "01",
-    title: "Web Design BootCamp-2022 for Beginners",
-    lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    title: "Forum: Get your questions answered here",
+    // lesson: 12,
+    // students: 12.5,
+    // rating: 5.9,
     imgUrl: courseImg1,
   },
 
   {
     id: "02",
-    title: "Professional Graphics Design, PhotoShop, Adobe XD, Figma",
-    lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    title: " Video call: One-to-One live interaction ",
+    // lesson: 12,
+    // students: 12.5,
+    // rating: 5.9,
     imgUrl: courseImg2,
   },
 
   {
     id: "03",
-    title: "UI/UX BootCamp for Beginners in 2022",
-    lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    title: "Study Plan: Make a perfect study plan",
+    // lesson: 12,
+    // students: 12.5,
+    // rating: 5.9,
     imgUrl: courseImg3,
   },
 ];
@@ -43,11 +43,9 @@ const Courses = () => {
           <Col lg="12" className="mb-5">
             <div className="course__top d-flex justify-content-between align-items-center">
               <div className="course__top__left w-50">
-                <h2>Our Popular Courses</h2>
+                <h2>Our Key Features </h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
-                  consequatur libero quod voluptatibus ullam quia quas, vitae
-                  voluptatem recusandae reprehenderit!
+                Study Sphere combines an interactive forum for real-time discussions with integrated video calls for virtual study sessions. With features like screen sharing and file sharing, it’s the perfect platform for collaborative learning.
                 </p>
               </div>
 

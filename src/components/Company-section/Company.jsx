@@ -8,42 +8,42 @@ const Company = () => {
         <Row>
           <Col lg="2" md="3" sm="4" xs="6">
             <h3 className=" d-flex align-items-center gap-1">
-              <i class="ri-vimeo-line"></i> Vimeo
+              <i></i> Forum
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
             <h3 className=" d-flex align-items-center gap-1">
-              <i class="ri-pinterest-line"></i> Pinterest
+              <i></i> Video call
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
             <h3 className=" d-flex align-items-center gap-1">
-              <i class="ri-dribbble-line"></i> Dribble
+              <i></i> Live Interaction
+            </h3>
+          </Col>
+
+          {/* <Col lg="2" md="3" sm="4" xs="6">
+            <h3 className=" d-flex align-items-center gap-1">
+              {" "}
+              <i></i> Apple
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
             <h3 className=" d-flex align-items-center gap-1">
               {" "}
-              <i class="ri-apple-fill"></i> Apple
-            </h3>
-          </Col>
-
-          <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
-              {" "}
-              <i class="ri-finder-fill"></i> Finder
+              <i></i> Finder
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
             <h2 className=" d-flex align-items-center gap-1">
               {" "}
-              <i class="ri-google-fill"></i> Google
+              <i></i> Google
             </h2>
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </section>

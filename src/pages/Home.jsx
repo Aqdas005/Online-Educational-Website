@@ -24,9 +24,9 @@ const Home = () => {
       <Courses />
       <ChooseUs />
       <Features />
-      <FreeCourse />
+      {/* <FreeCourse /> */}
       <Testimonials />
-      <Newsletter />
+      {/* <Newsletter /> */}
       <Footer />
     </Fragment>
   );

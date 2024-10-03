@@ -16,13 +16,7 @@ const ChooseUs = () => {
             <div className="choose__content">
               <h2>Why Choose Us</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+              1. Community-Centric Learning: At Study Sphere, we prioritize collaboration. Our platform connects learners and educators, fostering a supportive community where everyone can share insights and learn from one another <br /><br />2. Interactive Features: We offer a unique blend of tools designed for effective learning. With our interactive forum and seamless video call capabilities, users can engage in discussions and collaborate in real-time, making learning dynamic and enjoyable.
               </p>
             </div>
           </Col>
