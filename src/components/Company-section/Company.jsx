@@ -1,5 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
+import './company-section.css';
+
 
 const Company = () => {
   return (
@@ -13,13 +15,13 @@ const Company = () => {
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
+            <h3 className=" d-flex align-items-center nospace gap-1">
               <i></i> Video call
             </h3>
           </Col>
 
           <Col lg="2" md="3" sm="4" xs="6">
-            <h3 className=" d-flex align-items-center gap-1">
+            <h3 className=" d-flex align-items-center nospace gap-1">
               <i></i> Live Interaction
             </h3>
           </Col>

@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import { Container } from "reactstrap";
 import "./header.css";
+import Meetings from "../../Meetings";
 
 const navLinks = [
   {
@@ -14,7 +15,7 @@ const navLinks = [
 
   {
     display: "Meetings",
-    url: "#",
+    url: "../Meetings",
   },
   {
     display: "Pages",
